@@ -1,0 +1,9 @@
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(1,10,'Tue1',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(2,20,'Tue2',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(3,30,'Tue3',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(4,40,'Tue4',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(5,50,'Tue5',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(6,60,'Tue6',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(7,70,'Tue7',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(8,80,'Tue8',false);
+INSERT INTO order_header ( id,number_of_bricks,order_reference,despatched ) values(9,90,'Tue9',false);
